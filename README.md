@@ -88,3 +88,5 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+https://github.com/marcelbraghini/src-control-stock-client.git
